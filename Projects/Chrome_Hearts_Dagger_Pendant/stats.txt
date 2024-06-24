@@ -1,0 +1,9 @@
+Triangles: 4,616
+
+Materials: 1
+
+Texture Size: 4096x4096 
+
+Texel Density: 247.276 px/cm
+
+Workflow: PBR Metal/Gloss

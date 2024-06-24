@@ -1,0 +1,9 @@
+Chrome Hearts Dagger Pendant
+---
+Modeled in Maya and Zbrush. Then I baked and textured in Substance Painter. Final Renders were in Blender with Cycles. The art I referenced is a Jewelry Piece from the luxury brand Chrome Hearts. I Tried to make this as close to realism as I could and I feel like I got it there. I really enjoyed modeling from reference and the mental puzzles of how to recreate it as close to reference as possible.
+---
+Maya,Zbrush,Substance Painter 3D,Blender
+---
+https://cdnb.artstation.com/p/assets/model3ds/images/064/188/017/smaller_square/jacob-schoeben-75a5570274b4438dabacb021c7c4a20b.jpg?1687325783 
+---
+Chrome_Hearts_Dagger_Pendant-project.html
