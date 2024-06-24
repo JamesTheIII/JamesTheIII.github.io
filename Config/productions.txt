@@ -2,26 +2,15 @@
 # When you add one then productions.js will automatically add it after saving
 # Format: Title, Company, Time, Thumbnail URL, Description 
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
-https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+Intern 3d Artist
+Grass Roots Indigenous Multimedia
+2023 - Present
+https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/294071787_484069397053245_7252827931001384285_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=wjysen2x5-wQ7kNvgHbiRdR&_nc_ht=scontent-sea1-1.xx&oh=00_AYAEGxU5vXfsVZheMwcmKMpe1cMTzEva0UyqtIIIGNWyGg&oe=667F9044
+for my internship I'm making stylized 3d assets for the game "Reclaim!" taking directions and critques from the Art director. working within maya, blender, substance painter, then importing into unity.
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
-https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+Wine Steward
+Quality Food Center
+2017 - Present
+https://upload.wikimedia.org/wikipedia/en/b/b4/QFC_logo.svg 
+independently manage and curate the adult beverage selection. engage directly with customers to guide their selection of adult beverages, leveraging their preferences and offering pairing suggestions with items such as meats, cheeses, and desserts.
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
-https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
----
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
-https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.

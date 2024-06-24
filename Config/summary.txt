@@ -1,3 +1,8 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
-
-Pellentesque blandit leo nec tincidunt consectetur. Suspendisse auctor eu justo a vestibulum. Suspendisse bibendum, lacus id mattis finibus, turpis neque tempus arcu, at consectetur diam tellus in odio. Cras eu dolor laoreet ante dignissim sagittis malesuada vitae diam. Duis facilisis auctor quam eu porttitor. Pellentesque dictum dapibus nisi mollis hendrerit. Suspendisse at ante accumsan, venenatis diam eu, consectetur massa. Etiam non nisl in massa suscipit dignissim quis vitae mauris.
+Currently in Adult beverage sales of 10 years.
+3d artist of 6 years.
+Recent Graduate of Bellevue College with 3D Certificate of Accomplishment.
+ Currently I manage adult beverage for a single store, communicating with customers and distributors in various ways,
+ maintaining stock of product, and driving sales while managing budgets. 
+ I also Intern as a 3d artist for a small non profit studio for the game "Reclaim!". I've modeled various props for the scene within Maya, Blender, and Zbrush. 
+ Textured in Substance Painter and Imported into Unity testing for aproval by Art Director.
+ Lastly in my free time I also make assets for fun to use in the VR socializing platform VRChat that I also sometimes put up for sale.
