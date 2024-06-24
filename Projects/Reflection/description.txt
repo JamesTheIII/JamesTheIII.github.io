@@ -1,0 +1,13 @@
+Reflection
+---
+Our team of 4 talented 3D artists collaborated on this project. The project aimed to create a gloomy scene about a young Egyptian from the Old kingdom time period.
+Detailed Description:
+My role in this project was primarily working within Unreal engine adding assets, lighting, cameras, and composition of the scene. Smaller parts I worked on were video editing and the 3d modeling and texturing some assets too. I collaborated with team members adding their assets and ensuring they were functional in the scenes lighting. The team used Maya, Blender, Zbrush, and Substance painter to model and texture the assets. We used DaVinci Resolve to edit the video.
+My favorite assets that I produced out of this scene were the Torch, Brazier, Feather, and Fire Niagra System. The torch and brazier were made through sub-division modeling in Maya, Retopologized in Maya, then textured in Substance Painter. The Feather was drawn alpha, then made a 3d model to put alpha onto, and textured in Substance Painter. The Fire Niagra System was the hardest asset in the whole scene for me because it was my first time using a Niagra system, but I learned alot from my teacher and tutorials.
+Special Thanks: Professor Nejo for being the best teacher!
+---
+Blender,Maya,Zbrush,Substance Painter 3D,Unreal Engine 5,Davinci Resolve
+---
+https://cdnb.artstation.com/p/assets/videos/images/077/212/251/smaller_square/jacob-schoeben-maxresdefault.jpg
+---
+Reflection-project.html

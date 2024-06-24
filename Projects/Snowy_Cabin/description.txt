@@ -1,0 +1,11 @@
+Snowy Cabin
+---
+A warm post modern cabin was the inspiration for this project. I wanted to make the warm light from the wood stove to clash with the cold lighting from outside creating a inviting environment. It was really fun working on a project larger than just one asset challenging myself to keep the assets similar to each other. The hardest thing with this project was the rendering because this was my first time rendering with unreal, but I think it came out well considering I've only worked with still renders up to this point. All in all, It was really fun working on this project and seeing it slowly come together over the last few months!
+I've noticed getting to the end of this project the amount of progress shots Is slim so that'll be a focus for projects going forward.
+Rendered in unreal engine 5, Modeled in Maya and Zbrush, and Textured in Substance Painter 3D.
+---
+Maya,Zbrush,Substance Painter 3D,Photoshop,Unreal Engine 5
+---
+https://cdnb.artstation.com/p/assets/videos/images/073/961/391/smaller_square/jacob-schoeben-maxresdefault.jpg?1710884210
+---
+Snowy_Cabin-project.html
